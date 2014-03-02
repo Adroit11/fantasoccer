@@ -25,3 +25,7 @@ Then the configuration needs to know the public URL of your site and the URLs of
 These services could periodically change their URLs or their internal structure. I will try keeping the parsers up to date.
 
 To automate the formation check and result calculations, you need to setup a CRON job pointing at the engine/cron.php script. Executing this once per hour is more than enough. 
+
+# Example
+
+My personal site installation is [here](http://newfantatorneo.altervista.org/old/). Take a look to see some of the features.
